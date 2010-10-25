@@ -2,3 +2,5 @@
 - stomp for msg exchange (inter-process communication)
 - neo4j persistence
 - redis for cache
+
+for graph visualization, see neoclipse (take a look at neoclipse_screenshot.png)
