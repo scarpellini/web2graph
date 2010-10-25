@@ -1,3 +1,4 @@
 - python web crawler
+- stomp for msg exchange (inter-process communication)
 - neo4j persistence
 - redis for cache
